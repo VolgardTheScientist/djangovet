@@ -19,3 +19,7 @@ venv/
 
 # pycharm
 .idea/
+
+# Security settings
+/djangovet/settings.py
+/secrets/
